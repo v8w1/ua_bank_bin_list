@@ -1,1 +1,1 @@
-[# ua_bin_list](https://bin-card.v8w1.top)https://bin-card.v8w1.top
+[Сервіс визначення банку за номером картки. | V8w1](https://bin-card.v8w1.top)
