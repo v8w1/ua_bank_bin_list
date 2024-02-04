@@ -1,3 +1,5 @@
-Ukraine bank bin list
-
-[Сервіс визначення банку за номером картки. | V8w1](https://bin-card.v8w1.top)
+Ukraine bank bin list<br>
+[Сервіс визначення банку за номером картки. | V8w1](https://bin-card.v8w1.top)<br><br><br>
+get online data MFO:<br>
+GET: <code>https://bank.gov.ua/webselling_MOB_services/query/banks</code><br>
+HEADERS: <code>Authorization: Bearer 1oBlcYLV-dWxdOqEBoiRUnQPpBHXYS2-epzzHy6491UUGgLqcYjsbo0hSqpiFRbsznPWaimZB0tYTpCHswuw_LEqG-qxrXZ9rmwCwudhzpIvSEzR9fP_T6Jl8V4FrvXMMGWoqTqB4h4HP4nnfj1f0YeDO6t0LNIb5NVRoCp7ycYIidbHWMYPmpxu0hkN9ppNqLjxYQIf6A2ym_zFsdVTG-nJRW1nWX_alHqsA54ie9bBDurOPFNIx6uVb1XAMivKFq3EhSygCrWJ2b692ylhBR0L-pdv-ne5c8fZ2R8MaN0UyRJuW-W5lJz-X31YbvLHgP6gJSDxXhsgkurJIYia4iHSZyR1_z88YmYXm6cvghL3Qu2bvX4uPhHgSrQlJDfRHDhYZm5tePo6kH4BmtcoJHhB4q4l70906mdTc2kL6GGMd0OR_5wN08F8BSEUkMGf9u_lyEd2OInjhDH-IS_NlDlTz6q2LnSSmcV4OLG6j5aAPj8KGo_pY4Xq4VpPSsCte0Yy9a_ziYiTJIDIDJu9Rw</code>
